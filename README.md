@@ -1,6 +1,6 @@
 # Computer Vision Game - Escape Room 
 
-# Tehnologies :
+# Technologies :
 
 *Python 3.9*
 
